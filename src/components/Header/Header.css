@@ -1,7 +1,8 @@
 .header {
-    color: white;
-    letter-spacing: 1rem;
-    text-transform: uppercase;
-    font-size: 5rem;
-    text-shadow: 0.1rem 0.1rem 1rem rgba(0, 0, 0, 0.342);
+  color: rgb(53, 201, 157);
+  letter-spacing: 1rem;
+  text-transform: uppercase;
+  font-size: 3rem;
+  text-align: center;
+  text-shadow: 0.1rem 0.1rem 1rem rgb(219, 219, 219);
 }
